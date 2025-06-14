@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tushar0203
 - 👀 I’m interested in Competitve Coding
-- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on web and ML projects
 - 📫 How to reach me [Email](mailto:tomartushar0203@gmail.com)
 
