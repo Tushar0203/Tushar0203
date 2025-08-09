@@ -13,14 +13,6 @@
 - **DevOps & Cloud:** AWS (Lambda, EC2, SNS), Cloudflare Workers, Vercel, Docker  
 - **Others:** REST APIs, JWT Auth, Zod Validation, Winston Logger, Playwright
 
-## 🏆 Achievements
-
-- 🧠 Ranked **2621 globally** in Google Kickstart  
-- ⚙️ **Global Rank 37** in a CodeChef contest  
-- 🧮 **CodeChef Rating:** 1713  
-- 🧑‍🏫 Mentored **400+ students** as a DSA Teaching Assistant at Coding Ninjas  
-- 💡 Solved **500+ problems** on LeetCode, Codeforces, and CodeChef
-
 
 ## 🔭 Current Goals
 
